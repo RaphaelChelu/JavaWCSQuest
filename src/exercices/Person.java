@@ -1,5 +1,7 @@
 package exercices;
 
+// CLASS
+
 public class Person {
 
     // TODO 1. Add the following private attributes :
@@ -7,9 +9,9 @@ public class Person {
     // - age (int)
     // - wilder (boolean)
 
-    String name = "Raphael";
-    int age = 22;
-    boolean wilder = true;
+    private String name = "Raphael";
+    private int age = 22;
+    private boolean wilder = true;
 
 
     // TODO 2. Add a Constructor with name and age arguments (in this order)
